@@ -12,6 +12,7 @@
     <groupId>com.github</groupId>
     <artifactId>Mybatis-Plus</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>15</java.version>
